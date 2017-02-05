@@ -6,4 +6,4 @@ for (var i = 0; i < 10; i++) {
   }
 };
 
-alert(sum);
+alert(sum); //I could also just print it
